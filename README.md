@@ -3,8 +3,9 @@
 # Backend deployed on heroku
 --------------------------------
 # Backend apis
-- words api : https://part-of-speech-api.herokuapp.com/words
-- rank api  : https://part-of-speech-api.herokuapp.com/rank
+
+- words api (POST) : https://part-of-speech-api.herokuapp.com/words
+- rank api  (POST) : https://part-of-speech-api.herokuapp.com/rank
 # check them using something like postman or download the Server side app folder and test it loacaly.
 --------------------------------
 # Frontend Demo 
