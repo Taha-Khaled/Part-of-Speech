@@ -1,4 +1,3 @@
-# Part-of-Speech
 # Frontend deployed on github pages
 # Backend deployed on heroku
 --------------------------------
