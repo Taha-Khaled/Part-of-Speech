@@ -4,9 +4,9 @@
 --------------------------------
 # Backend apis
 - words api (POST) : https://part-of-speech-api.herokuapp.com/words
-  request body {list_length?: number}
+  request body { list_length?: number }
 - rank api  (POST) : https://part-of-speech-api.herokuapp.com/rank
-  request body {score: number}
+  request body { score: number }
 # check them using something like postman or download the Server side app folder and test it loacaly.
 --------------------------------
 # Frontend Demo 
