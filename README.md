@@ -1,6 +1,5 @@
 # Backend apis
-- words api (POST) : https://part-of-speech-api.herokuapp.com/words
+- words api (POST) : https://cautious-fatigues-fly.cyclic.app/words
 request body { list_length?: number }
-- rank api (POST) : https://part-of-speech-api.herokuapp.com/rank
+- rank api (POST) : https://cautious-fatigues-fly.cyclic.app/rank
 --------------------------------
-# My advice is to download it locally and review the code.
